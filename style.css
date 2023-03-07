@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color: hotpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+    -webkit-text-stroke-width: 0.6px;
+    -webkit-text-stroke-color: black;
+}
